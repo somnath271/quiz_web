@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is the primary purpose of React?",
+        "options": [
+            "To manage backend databases",
+            "To build user interfaces",
+            "To perform server-side rendering",
+            "To handle routing"
+        ],
+        "answer": "To build user interfaces"
+    },
+    {
+        "id": "02",
+        "question" : "What is JSX in React?",
+        "options": [
+            "A JavaScript library",
+            "A syntax extension for JavaScript",
+            "A type of CSS preprocessor",
+            "A database query language"
+        ],
+        "answer": "A syntax extension for JavaScript"
+    },
+    {
+        "id": "03",
+        "question" : "Which function is used to create a React component?",
+        "options": [
+            "createComponent()",
+            "makeComponent()",
+            "React.createComponent()",
+            "React.createElement()"
+        ],
+        "answer": "React.createElement()"
+    },
+    {
+        "id": "04",
+        "question" : "What does the useState hook do in React?",
+        "options": [
+            "Manages side effects",
+            "Handles component lifecycle",
+            "Adds state to functional components",
+            "Provides routing functionality"
+        ],
+        "answer": "Adds state to functional components"
+    },
+    {
+        "id": "05",
+        "question" : "How do you pass data to a React component?",
+        "options": [
+            "Through global variables",
+            "Using props",
+            "Using local storage",
+            "Through state"
+        ],
+        "answer": "Using props"
+    },
+    {
+        "id": "06",
+        "question" : "Which of the following is a method used for updating state in a class component?",
+        "options": [
+            "this.setState()",
+            "this.updateState()",
+            "this.modifyState()",
+            "this.changeState()"
+        ],
+        "answer": "this.setState()"
+    },
+    {
+        "id": "07",
+        "question" : "What is the purpose of the componentDidMount lifecycle method?",
+        "options": [
+            "To initialize state",
+            "To handle component updates",
+            "To perform actions after the component mounts",
+            "To render the component"
+        ],
+        "answer": "To perform actions after the component mounts"
+    },
+    {
+        "id": "08",
+        "question" : "Which hook is used to handle side effects in React functional components?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useContext",
+            "useReducer"
+        ],
+        "answer": "useEffect"
+    },
+    {
+        "id": "09",
+        "question" : "What is the key purpose of ReactDOM.render()?",
+        "options": [
+            "To create a React component",
+            "To update the component state",
+            "To render a React element into the DOM",
+            "To handle user events"
+        ],
+        "answer": "To render a React element into the DOM"
+    },
+    {
+        "id": "10",
+        "question" : "Which attribute in React is used to set the unique identifier for elements in a list?",
+        "options": [
+            "id",
+            "key",
+            "ref",
+            "name"
+        ],
+        "answer": "key"
+    }
+]
